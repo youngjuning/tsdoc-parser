@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@microsoft/tsdoc": "^0.12.24"
+  }
+}
