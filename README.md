@@ -1,4 +1,4 @@
-# tsdoc-json-parser
+# tsdoc-parser
 
 json parser based on tsdoc
 
