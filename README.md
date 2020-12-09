@@ -9,3 +9,4 @@ json parser based on tsdoc
 - [@babel/generator](https://babeljs.io/docs/en/babel-generator)
 - [@babel/parser](https://babeljs.io/docs/en/babel-parser)
 - [@babel/types](https://babeljs.io/docs/en/babel-types)
+- [vscode-ast](https://github.com/vscode-box/vscode-ast.git)
