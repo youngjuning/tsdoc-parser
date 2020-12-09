@@ -13,3 +13,4 @@ json parser based on tsdoc
 - [AST与前端工程化实战](https://www.bilibili.com/video/av64917125/)
 - [astexplorer](https://astexplorer.net/)
 - [AST抽象语法树——最基础的javascript重点知识，99%的人根本不了解](https://segmentfault.com/a/1190000016231512)
+- [recast](https://www.npmjs.com/package/recast)
